@@ -1,0 +1,7 @@
+﻿  WalkingAnimation.cpp
+c:\users\curtis\source\repos\walkinganimation\walkinganimation\walkinganimation.cpp(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\source\repos\walkinganimation\walkinganimation\walkinganimation.cpp(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\source\repos\walkinganimation\walkinganimation\walkinganimation.cpp(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\source\repos\walkinganimation\walkinganimation\walkinganimation.cpp(51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\curtis\source\repos\walkinganimation\walkinganimation\walkinganimation.cpp(57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  WalkingAnimation.vcxproj -> C:\Users\Curtis\source\repos\WalkingAnimation\Debug\WalkingAnimation.exe
